@@ -1,4 +1,4 @@
-# Lag-switcher
+# Lag-switcher-for-all-games
 *Limit Speed* Randomizes bandwidth too [Kbs] or [Mbs]
 
 *Latency/Lag* Was increased to 4500, older versions maxed out at 3000 
