@@ -13,6 +13,6 @@
 
 *Tamper* was upgraded to be more accurate 5x stronger
 
-Best sitting?
+Best sittings:
 
 ![image](https://user-images.githubusercontent.com/75933148/210129233-4a42ba10-e580-4dd7-854a-3290be4a92f9.png)
